@@ -13,3 +13,5 @@ Email: emanuelezappala@isu.edu.
 Previous emails: emanuele.zappala@yale.edu (inactive), zae@usf.edu(inactive),emanuele.amedeo.zappala@ut.ee (inactive), zemanuel@umich.edu (inactive).
 
 Previous webpage (not supervised anymore): https://eazappala.com/.
+
+![alt text](https://github.com/emazap7/emazap7.github.io/blob/main/Alexander_horned_sphere%20(1).png)
