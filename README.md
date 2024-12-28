@@ -7,3 +7,7 @@ My main research interests lie in pure and applied mathematics, and include vari
 My PhD dissertation: Non-Associative Algebraic Structures in Knot Theory (2020). Graduate Theses and Dissertations, University of South Florida, https://scholarcommons.usf.edu/etd/8096.
 
 Here is a (usually updated) [CV](https://github.com/emazap7/emazap7.github.io/blob/main/EZ_CV_1_122024.pdf). You can find a list of my articles and preprints [here](https://github.com/emazap7/emazap7.github.io/blob/main/EZ_Papers122024.pdf). My articles can also be found on [Google Scholar](https://scholar.google.com/citations?user=PofPqrIAAAAJ&hl=en&oi=ao).
+
+Email: emanuelezappala@isu.edu.
+Previous emails: emanuele.zappala@yale.edu (inactive), zae@usf.edu(inactive),emanuele.amedeo.zappala@ut.ee (inactive), zemanuel@umich.edu (inactive).
+Previous webpage (not supervised anymore): https://eazappala.com/.
