@@ -6,4 +6,4 @@ My main research interests lie in pure and applied mathematics, and include vari
 
 My PhD dissertation: Non-Associative Algebraic Structures in Knot Theory (2020). Graduate Theses and Dissertations, University of South Florida, https://scholarcommons.usf.edu/etd/8096.
 
-Here is a (usually updated) [CV](https://github.com/emazap7/emazap7.github.io/blob/main/EZ_CV_1_122024.pdf). 
+Here is a (usually updated) [CV](https://github.com/emazap7/emazap7.github.io/blob/main/EZ_CV_1_122024.pdf). You can find a list of my articles and preprints [here](https://github.com/emazap7/emazap7.github.io/blob/main/EZ_Papers122024.pdf).
