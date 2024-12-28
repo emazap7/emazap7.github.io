@@ -5,3 +5,5 @@ Welcome to my website. My name is Emanuele Zappala and I am currently an Assista
 My main research interests lie in pure and applied mathematics, and include various topics in machine learning, algebra, topology, and theoretical and computational physics. More specifi cally, I am interested in quantum algebra/topology, cocycle invariants of knots and manifolds, and Yang-Baxter operators and their cohomology. I also work in (quantum) machine learning and physics, where my interests revolve around integral equations and iterative methods in operator learning, as well as algebraic approaches to physics.
 
 My PhD dissertation: Non-Associative Algebraic Structures in Knot Theory (2020). Graduate Theses and Dissertations, University of South Florida, https://scholarcommons.usf.edu/etd/8096.
+
+Here is a (usually updated) [CV](https://github.com/emazap7/emazap7.github.io/blob/main/EZ_CV_1_122024.pdf). 
