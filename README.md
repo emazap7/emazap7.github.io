@@ -14,5 +14,5 @@ Previous emails: emanuele.zappala@yale.edu (inactive), zae@usf.edu(inactive),ema
 
 Previous webpage (not supervised anymore): https://eazappala.com/.
 
-![alt text](https://github.com/emazap7/emazap7.github.io/blob/main/Alexanderhornedsphere.png)
+![alt text](/main/Alexanderhornedsphere.png)
 *[The Alexander Horned Sphere](https://en.wikipedia.org/wiki/Alexander_horned_sphere) (taken from Wikipedia).*
