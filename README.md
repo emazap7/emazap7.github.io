@@ -17,5 +17,5 @@ Previous webpage (not supervised anymore): https://eazappala.com/.
 ![alt text](Alexanderhornedsphere.png)
 *[The Alexander Horned Sphere](https://en.wikipedia.org/wiki/Alexander_horned_sphere) (taken from Wikipedia).*
 
-![alt text](EZ1.jpeg)
+![alt text](EZ1.jpg)
 *This is me.*
