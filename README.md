@@ -8,6 +8,8 @@ My PhD dissertation: Non-Associative Algebraic Structures in Knot Theory (2020).
 
 Here is a (usually updated) [CV](EZ_CV.pdf). You can find a list of my articles and preprints [here](EZ_Papers.pdf). My articles can also be found on [Google Scholar](https://scholar.google.com/citations?user=PofPqrIAAAAJ&hl=en&oi=ao).
 
+Some lecture notes that I use(d) for teaching: [Calculus](Calculus1+2_Notes.pdf) and [Linear Algebra](Linear_Algebra_Notes.pdf).
+
 Email: emanuelezappala@isu.edu.
 
 Previous emails: emanuele.zappala@yale.edu (inactive), zae@usf.edu(inactive),emanuele.amedeo.zappala@ut.ee (inactive), zemanuel@umich.edu (inactive).
