@@ -10,6 +10,8 @@ Here is a (usually updated) [CV](EZ_CV.pdf). You can find a list of my articles 
 
 Some lecture notes that I use(d) for teaching: [Calculus](Calculus1+2_Notes.pdf), [Linear Algebra](Linear_Algebra_Notes.pdf), and [Intro to Real Analysis](Real_Analysis_Notes.pdf).
 
+Here is the link to the [colloquium series](https://sites.google.com/isu.edu/researchcolloquium/home) in the math department at ISU. 
+
 Email: emanuelezappala@isu.edu.
 
 Previous emails: emanuele.zappala@yale.edu (inactive), zae@usf.edu(inactive),emanuele.amedeo.zappala@ut.ee (inactive), zemanuel@umich.edu (inactive).
