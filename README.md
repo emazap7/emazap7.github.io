@@ -10,8 +10,6 @@ Here is a (usually updated) [CV](EZ_CV.pdf). You can find a list of my articles 
 
 Some lecture notes that I use(d) for teaching: [Calculus](Calculus1+2_Notes.pdf), [Linear Algebra](Linear_Algebra_Notes.pdf), [Intro to Real Analysis](Real_Analysis_Notes.pdf), [Complex Analysis](Complex_Notes.pdf). 
 
-As arXiv is lately taking very long to process and approve submissions, here is a recently uploaded work that might appear in the next weeks: [Fixed Point](fixed_point.pdf). 
-
 Here is the link to the [colloquium series](https://sites.google.com/isu.edu/researchcolloquium/home) in the math department at ISU. 
 
 The Department of Mathematics at ISU participates in the college level [EAS PhD](https://www.isu.edu/cose/programs/engineering-and-applied-science/). Please feel free to contact me if you would like to apply and pursue a PhD under my supervision. 
